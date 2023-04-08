@@ -1,0 +1,7 @@
+ {
+  "model": "gpt-3.5-turbo",
+  "topic": "Intro to ReactJS",
+  "num_chapters": 12,
+  "book_format": "html",
+  "author": "Chewy42"
+}
