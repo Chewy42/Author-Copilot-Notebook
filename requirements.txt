@@ -46,7 +46,7 @@ requests==2.28.2
 six==1.16.0
 soupsieve==2.4
 stack-data==0.6.2
-tornado==6.2
+tornado==6.3.2
 tqdm==4.65.0
 traitlets==5.9.0
 urllib3==1.26.15
